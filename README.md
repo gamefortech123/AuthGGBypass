@@ -1,1 +1,1 @@
-# auth-gg-bypass
+# AuthGGBypass
