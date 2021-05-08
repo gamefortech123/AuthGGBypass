@@ -1,4 +1,4 @@
-^^ Use Above Text As Header For [HTTP Debugger](https://www.httpdebugger.com/download_pro.html) Auto-Reply.
+^^ Use Above Text As Header For [HTTP Debugger](https://www.httpdebugger.com/) Auto-Reply.
 
 Download [HTTP Debugger](https://www.httpdebugger.com/download_pro.html)
 
